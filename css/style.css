@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins';
+    font-size: 15px;
+}
+
+.container{
+    margin: 100px;
+    border : 1px solid black;
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px 5px rgb(50, 111, 168);
+
+}
+
+.text{
+    margin-left: 80px;
+    text-align: left;
+    flex-basis: 100px;
+}
+
+.header{
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.subtitle {
+    text-decoration: underline;
+}
+
+.form {
+    padding: 20px 100px;
+}
+
+
